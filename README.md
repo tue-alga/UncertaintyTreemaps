@@ -36,3 +36,8 @@ US Bureau of Labor Statistics. Mean expenditure per (consumer) household in 2014
 Standard & Poor's 500: Mean closing price per stock over the period 03-11-2016 to 10-11-2016.
 UN comtrade database. Coffee imported per country over the period 1994-2014. https://comtrade.un.org. 
 Worldbank. Infant deaths per country over the period 1992-2016. https://data.worldbank.org/indicator/SH.DTH.IMRT.
+
+
+
+[![DOI](https://zenodo.org/badge/235584718.svg)](https://zenodo.org/badge/latestdoi/235584718)
+
