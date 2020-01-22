@@ -1,0 +1,13 @@
+Label,Parent,Color,Mean,SD
+a,d,#E57426,8,1
+b,d,#E57426,8,1
+c,d,#E57426,8,2
+d,root,#E57426,24,2.4494897
+e,h,#4D91BF,15,2
+f,h,#4D91BF,5,4
+g,h,#4D91BF,6,3
+h,root,#4D91BF,26,5.38516
+i,l,#7CC27C,12,5
+j,l,#7CC27C,5,3
+k,l,#7CC27C,2,1
+l,root,#7CC27C,19,5.916

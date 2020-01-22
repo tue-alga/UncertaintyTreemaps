@@ -1,0 +1,582 @@
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 5922217.379447521,
+"size": 1.313923754557798E7,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "MEX"
+}
+],
+"se": 5922217.379447521,
+"size": 1.313923754557798E7,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Central America"
+},
+{ 
+"children": [ 
+{ 
+"se": 2.811439542782326E7,
+"size": 5.733388118186334E7,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "ARG"
+},
+{ 
+"se": 5800966.019163961,
+"size": 2.026094490914814E7,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "CHL"
+},
+{ 
+"se": 9571042.296652712,
+"size": 6384346.909171643,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "COL"
+}
+],
+"se": 3.0260127026696693E7,
+"size": 8.397917300018312E7,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "South America"
+},
+{ 
+"children": [ 
+{ 
+"se": 9.744810268563023E7,
+"size": 4.575803715455485E8,
+"colorRed": 236,
+"colorGreen": 112,
+"colorBlue": 20,
+"title": "CAN"
+},
+{ 
+"se": 6.843493294727793E8,
+"size": 2.6109426024546223E9,
+"colorRed": 236,
+"colorGreen": 112,
+"colorBlue": 20,
+"title": "USA"
+}
+],
+"se": 6.912525858663183E8,
+"size": 3.0685229740001707E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern America"
+}
+],
+"se": 6.919399435017703E8,
+"size": 3.165641384545932E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Americas"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 8940242.508498115,
+"size": 1.368716290921663E7,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "CHN"
+},
+{ 
+"se": 1.921900058919431E8,
+"size": 8.288248791818912E8,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "JPN"
+},
+{ 
+"se": 4.149026991071042E7,
+"size": 1.2477178190915552E8,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "KOR"
+}
+],
+"se": 1.9682065135071442E8,
+"size": 9.672838240002633E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Eastern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 3829224.546262966,
+"size": 6672271.000132543,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "IDN"
+},
+{ 
+"se": 1.0461657407759825E7,
+"size": 2.7172188545549314E7,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "MYS"
+},
+{ 
+"se": 7613171.561196416,
+"size": 1.3151261000110576E7,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "PHL"
+},
+{ 
+"se": 1.4728953497779438E7,
+"size": 3.4125327636463605E7,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "SGP"
+},
+{ 
+"se": 729433.6410287293,
+"size": 1004249.181886495,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "THA"
+}
+],
+"se": 1.998859079924501E7,
+"size": 8.212529736414254E7,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "South-eastern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 1.1411936227502009E7,
+"size": 8601164.272784425,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "IND"
+}
+],
+"se": 1.1411936227502009E7,
+"size": 8601164.272784425,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Southern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 5912299.693783396,
+"size": 2.0556016545505606E7,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "TUR"
+}
+],
+"se": 5912299.693783396,
+"size": 2.0556016545505606E7,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Western Asia"
+}
+],
+"se": 1.9825009492151278E8,
+"size": 1.0785663021826959E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Asia"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 8730950.802213425,
+"size": 1.5378560454644885E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "BGR"
+},
+{ 
+"se": 1.959676929012873E7,
+"size": 5.678906809105646E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "CZE"
+},
+{ 
+"se": 1.3789047135649532E7,
+"size": 5.340500000013494E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "HUN"
+},
+{ 
+"se": 5.0570893301323384E7,
+"size": 1.7619568672735253E8,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "POL"
+},
+{ 
+"se": 2.414692622404441E7,
+"size": 5.278846354553239E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "ROU"
+},
+{ 
+"se": 2.9456480458954006E7,
+"size": 4.1536249272793844E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "RUS"
+},
+{ 
+"se": 8984328.668296924,
+"size": 2.8054047363709696E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "SVK"
+},
+{ 
+"se": 9635009.506663494,
+"size": 1.5915973181954898E7,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "UKR"
+}
+],
+"se": 6.95134936227195E7,
+"size": 4.400630486371797E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Eastern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 3.5867829891145185E7,
+"size": 1.2283456909099674E8,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "DNK"
+},
+{ 
+"se": 8367685.447976679,
+"size": 2.653600800013323E7,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "EST"
+},
+{ 
+"se": 5.5813595839522466E7,
+"size": 1.5494009109103906E8,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "FIN"
+},
+{ 
+"se": 9.416041011672086E7,
+"size": 3.4373487972733366E8,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "GBR"
+},
+{ 
+"se": 5535387.5677477885,
+"size": 1.969575581824936E7,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "IRL"
+},
+{ 
+"se": 8071981.220558757,
+"size": 3.113270854551787E7,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "LTU"
+},
+{ 
+"se": 5822011.708091297,
+"size": 1.9040087818315137E7,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "LVA"
+},
+{ 
+"se": 2.934326552005246E7,
+"size": 9.122631990915568E7,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "NOR"
+},
+{ 
+"se": 8.00102838157945E7,
+"size": 2.3429146827280807E8,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "SWE"
+}
+],
+"se": 1.4397994880915433E8,
+"size": 1.043431888273549E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 1.1104530838918138E8,
+"size": 3.8420653900012094E8,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "ESP"
+},
+{ 
+"se": 1.7602690327215627E7,
+"size": 6.601030563648053E7,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "GRC"
+},
+{ 
+"se": 1.3013716937914027E7,
+"size": 4.145119590917932E7,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "HRV"
+},
+{ 
+"se": 1.7690369025601503E8,
+"size": 6.81257814181907E8,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "ITA"
+},
+{ 
+"se": 2.2590828463381797E7,
+"size": 9.747856200008807E7,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "PRT"
+},
+{ 
+"se": 5376653.388463925,
+"size": 2.2056829636452068E7,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "SVN"
+}
+],
+"se": 2.1129231318025303E8,
+"size": 1.2924612463642278E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Southern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 4.157511105065433E7,
+"size": 1.7979347290921897E8,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "CHE"
+},
+{ 
+"se": 5.2490005602907825E8,
+"size": 1.7258020160000794E9,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "DEU"
+},
+{ 
+"se": 2.091703406962717E8,
+"size": 7.56221966363703E8,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "FRA"
+},
+{ 
+"se": 1.0288332850771041E8,
+"size": 3.72547978000066E8,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "NLD"
+}
+],
+"se": 5.758348455851066E8,
+"size": 3.0343654332730675E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Western Europe"
+}
+],
+"se": 6.338710929312112E8,
+"size": 5.810321616548024E9,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Europe"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 5423877.712931204,
+"size": 1.994369163643668E7,
+"colorRed": 116,
+"colorGreen": 196,
+"colorBlue": 118,
+"title": "NZL"
+},
+{ 
+"se": 4.9823209600545004E7,
+"size": 1.7566646000011784E8,
+"colorRed": 116,
+"colorGreen": 196,
+"colorBlue": 118,
+"title": "AUS"
+}
+],
+"se": 5.011756842011264E7,
+"size": 1.956101516365545E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Australia and New Zealand"
+}
+],
+"se": 5.011756842011264E7,
+"size": 1.956101516365545E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Oceania"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 3.0391864177127734E7,
+"size": 1.1963860263646108E8,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "DZA"
+},
+{ 
+"se": 2974051.037574257,
+"size": 9493805.909196703,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "EGY"
+},
+{ 
+"se": 9064535.361007173,
+"size": 3.717425736371302E7,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "MAR"
+},
+{ 
+"se": 4037020.0384494704,
+"size": 1.4165754454671623E7,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "TUN"
+}
+],
+"se": 3.2108779482204996E7,
+"size": 1.8047242036404243E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern Africa"
+}
+],
+"se": 3.2108779482204996E7,
+"size": 1.8047242036404243E8,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Africa"
+}
+],
+"se": 9.60947080950669E8,
+"size": 1.0430611875277248E10,
+"colorRed": 255,
+"colorGreen": 0,
+"colorBlue": 0,
+"title": "root"
+}

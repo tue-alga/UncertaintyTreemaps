@@ -1,0 +1,640 @@
+id,parent,Color,size,sd
+SP500,root,#86B0D4,43133.33333,132.6951393
+Financials,SP500,#86B0D4,4158.166667,83.04817879
+Life & Health Insurance,Financials,#86B0D4,364.5,5.744562647
+PRU,Life & Health Insurance,#86B0D4,89.5,4.218522391
+UNM,Life & Health Insurance,#86B0D4,37,1.676513608
+MET,Life & Health Insurance,#86B0D4,48.5,2.605996617
+TMK,Life & Health Insurance,#86B0D4,65.16666667,2.216597474
+AFL,Life & Health Insurance,#86B0D4,69.83333333,1.709186252
+PFG,Life & Health Insurance,#86B0D4,54.5,1.696206203
+Consumer Finance,Financials,#86B0D4,264,4.123105626
+COF,Consumer Finance,#86B0D4,74.33333333,2.44630858
+SYF,Consumer Finance,#86B0D4,29,1.275924874
+DFS,Consumer Finance,#86B0D4,58.16666667,2.709179389
+HRB,Consumer Finance,#86B0D4,21.66666667,0.398448643
+NAVI,Consumer Finance,#86B0D4,13.83333333,1.507333923
+AXP,Consumer Finance,#86B0D4,67,1.71821548
+Investment Banking & Brokerage,Financials,#86B0D4,279.1666667,9.433981132
+SCHW,Investment Banking & Brokerage,#86B0D4,32.16666667,1.563563495
+GS,Investment Banking & Brokerage,#86B0D4,184.1666667,9.07570906
+MS,Investment Banking & Brokerage,#86B0D4,34.33333333,1.969431714
+ETFC,Investment Banking & Brokerage,#86B0D4,28.5,1.494054986
+Multi-Sector Holdings,Financials,#86B0D4,18.33333333,0
+LUK,Multi-Sector Holdings,#86B0D4,18.33333333,0.981973872
+Multi-line Insurance,Financials,#86B0D4,175.8333333,3.464101615
+LNC,Multi-line Insurance,#86B0D4,53.5,3.266266916
+L,Multi-line Insurance,#86B0D4,41.83333333,0.923038088
+AIZ,Multi-line Insurance,#86B0D4,80.5,1.431565296
+Asset Management & Custody Banks,Financials,#86B0D4,905,15.87450787
+BEN,Asset Management & Custody Banks,#86B0D4,34.83333333,2.079897241
+NTRS,Asset Management & Custody Banks,#86B0D4,74.33333333,2.401067589
+IVZ,Asset Management & Custody Banks,#86B0D4,28.5,1.266267397
+AMP,Asset Management & Custody Banks,#86B0D4,94.33333333,8.293374512
+BLK,Asset Management & Custody Banks,#86B0D4,355.8333333,11.30481442
+TROW,Asset Management & Custody Banks,#86B0D4,65.16666667,2.688385333
+STT,Asset Management & Custody Banks,#86B0D4,72.5,2.462282216
+BK,Asset Management & Custody Banks,#86B0D4,43.83333333,1.287290009
+AMG,Asset Management & Custody Banks,#86B0D4,135.6666667,5.779884681
+Regional Banks,Financials,#86B0D4,424.5,6.782329983
+STI,Regional Banks,#86B0D4,46,1.927494373
+RF,Regional Banks,#86B0D4,10.5,0.843573747
+MTB,Regional Banks,#86B0D4,125.8333333,4.686230795
+PNC,Regional Banks,#86B0D4,97.66666667,4.110251893
+CFG,Regional Banks,#86B0D4,27,1.23868225
+KEY,Regional Banks,#86B0D4,14.16666667,0.818616719
+ZION,Regional Banks,#86B0D4,32.66666667,1.974893043
+HBAN,Regional Banks,#86B0D4,10.16666667,0.670969448
+FITB,Regional Banks,#86B0D4,21.5,1.110037798
+BBT,Regional Banks,#86B0D4,39,1.250406285
+Property & Casualty Insurance,Financials,#86B0D4,538,3.31662479
+XL,Property & Casualty Insurance,#86B0D4,35.66666667,1.341090192
+AIG,Property & Casualty Insurance,#86B0D4,59.33333333,1.9503967
+CINF,Property & Casualty Insurance,#86B0D4,69.33333333,1.118252178
+HIG,Property & Casualty Insurance,#86B0D4,44.16666667,1.1858281
+PGR,Property & Casualty Insurance,#86B0D4,31.5,0.706387693
+TRV,Property & Casualty Insurance,#86B0D4,106.1666667,1.780060923
+ALL,Property & Casualty Insurance,#86B0D4,67.33333333,1.033914625
+CB,Property & Casualty Insurance,#86B0D4,124.5,1.181318678
+Insurance Brokers,Financials,#86B0D4,342.1666667,3.605551275
+MMC,Insurance Brokers,#86B0D4,64.83333333,1.621396572
+AJG,Insurance Brokers,#86B0D4,48.33333333,1.429011779
+WLTW,Insurance Brokers,#86B0D4,119,2.588125463
+AON,Insurance Brokers,#86B0D4,110,1.920138073
+Diversified Banks,Financials,#86B0D4,280.1666667,4.898979486
+C,Diversified Banks,#86B0D4,49.66666667,1.989655895
+BAC,Diversified Banks,#86B0D4,16.83333333,0.937031213
+USB,Diversified Banks,#86B0D4,44.66666667,1.51447817
+JPM,Diversified Banks,#86B0D4,70.5,3.108920794
+WFC,Diversified Banks,#86B0D4,46.16666667,2.493019817
+CMA,Diversified Banks,#86B0D4,52.33333333,2.206218928
+Thrifts & Mortgage Finance,Financials,#86B0D4,16.33333333,0
+PBCT,Thrifts & Mortgage Finance,#86B0D4,16.33333333,0.836484364
+Financial Exchanges & Data,Financials,#86B0D4,550.1666667,80
+CME,Financial Exchanges & Data,#86B0D4,107.1666667,5.2426995
+ICE,Financial Exchanges & Data,#86B0D4,90.66666667,79.78944657
+MCO,Financial Exchanges & Data,#86B0D4,98.83333333,1.21149272
+NDAQ,Financial Exchanges & Data,#86B0D4,65.16666667,1.171102212
+SPGI,Financial Exchanges & Data,#86B0D4,124.3333333,1.717163531
+CBOE,Financial Exchanges & Data,#86B0D4,64,1.811256214
+Utilities,SP500,#86B0D4,1548.166667,6.633249581
+Multi-Utilities,Utilities,#BB80BC,778.8333333,5.567764363
+SRE,Multi-Utilities,#BB80BC,101,2.515491853
+CNP,Multi-Utilities,#BB80BC,22.66666667,0.653546335
+NEE,Multi-Utilities,#BB80BC,121.1666667,3.878134496
+NI,Multi-Utilities,#BB80BC,21.66666667,0.563766721
+AEE,Multi-Utilities,#BB80BC,49.16666667,1.211326354
+SCG,Multi-Utilities,#BB80BC,70.66666667,1.468438632
+EXC,Multi-Utilities,#BB80BC,32,1.234064272
+CMS,Multi-Utilities,#BB80BC,40.33333333,1.016600515
+XEL,Multi-Utilities,#BB80BC,39.83333333,1.069971734
+PCG,Multi-Utilities,#BB80BC,59.83333333,1.186884394
+PNW,Multi-Utilities,#BB80BC,73.83333333,1.031993907
+ES,Multi-Utilities,#BB80BC,53.33333333,0.896006443
+DTE,Multi-Utilities,#BB80BC,93.33333333,1.681744258
+Independent Power Producers & Energy Traders,Utilities,#BB80BC,22.66666667,0
+NRG,Independent Power Producers & Energy Traders,#BB80BC,11,0.604000552
+AES,Independent Power Producers & Energy Traders,#BB80BC,11.66666667,0.499210488
+Water Utilities,Utilities,#BB80BC,71.33333333,0
+AWK,Water Utilities,#BB80BC,71.33333333,0.734676356
+Electric Utilities,Utilities,#BB80BC,675.3333333,3.741657387
+ETR,Electric Utilities,#BB80BC,69.66666667,1.625332895
+WEC,Electric Utilities,#BB80BC,57.16666667,1.334035247
+LNT,Electric Utilities,#BB80BC,36.5,1.126802105
+SO,Electric Utilities,#BB80BC,49.33333333,1.114252934
+PPL,Electric Utilities,#BB80BC,33.66666667,0.653494793
+PEG,Electric Utilities,#BB80BC,40.5,0.905198094
+EIX,Electric Utilities,#BB80BC,70.33333333,1.173144383
+D,Electric Utilities,#BB80BC,73.33333333,1.456421372
+DUK,Electric Utilities,#BB80BC,77.33333333,1.513304991
+AEP,Electric Utilities,#BB80BC,61.66666667,1.348682269
+FE,Electric Utilities,#BB80BC,33,1.017325132
+ED,Electric Utilities,#BB80BC,72.83333333,1.632156485
+Consumer Discretionary,SP500,#8DD2C6,8859.5,68.05145112
+Computer & Electronics Retail,Consumer Discretionary,#8DD2C6,38.16666667,0
+BBY,Computer & Electronics Retail,#8DD2C6,38.16666667,0.842321306
+Apparel; Accessories & Luxury Goods,Consumer Discretionary,#8DD2C6,550.8333333,5
+COH,Apparel; Accessories & Luxury Goods,#8DD2C6,35.66666667,0.623801737
+NKE,Apparel; Accessories & Luxury Goods,#8DD2C6,50,0.761084903
+PVH,Apparel; Accessories & Luxury Goods,#8DD2C6,106.5,2.991206845
+KORS,Apparel; Accessories & Luxury Goods,#8DD2C6,49.66666667,1.143198582
+RL,Apparel; Accessories & Luxury Goods,#8DD2C6,100,2.96042903
+UA,Apparel; Accessories & Luxury Goods,#8DD2C6,25.16666667,0.632354909
+VFC,Apparel; Accessories & Luxury Goods,#8DD2C6,54.16666667,1.104544595
+TIF,Apparel; Accessories & Luxury Goods,#8DD2C6,75.33333333,2.817747037
+HBI,Apparel; Accessories & Luxury Goods,#8DD2C6,23.66666667,0.562301629
+UAA,Apparel; Accessories & Luxury Goods,#8DD2C6,30.66666667,0.65990325
+Hotels; Resorts & Cruise Lines,Consumer Discretionary,#8DD2C6,263.3333333,3
+RCL,Hotels; Resorts & Cruise Lines,#8DD2C6,77.16666667,1.782675234
+MAR,Hotels; Resorts & Cruise Lines,#8DD2C6,71.5,1.892656879
+WYN,Hotels; Resorts & Cruise Lines,#8DD2C6,66.16666667,1.79471892
+CCL,Hotels; Resorts & Cruise Lines,#8DD2C6,48.5,0.911271738
+Apparel Retail,Consumer Discretionary,#8DD2C6,326.8333333,3
+LB,Apparel Retail,#8DD2C6,65.66666667,1.136165185
+FL,Apparel Retail,#8DD2C6,67.5,2.063862024
+URBN,Apparel Retail,#8DD2C6,33,1.551832002
+ROST,Apparel Retail,#8DD2C6,61.83333333,0.924920686
+TJX,Apparel Retail,#8DD2C6,72.66666667,1.360386187
+GPS,Apparel Retail,#8DD2C6,26.16666667,1.19491744
+Restaurants,Consumer Discretionary,#8DD2C6,669.3333333,8.062257748
+MCD,Restaurants,#8DD2C6,112.6666667,1.549104705
+CMG,Restaurants,#8DD2C6,377.3333333,7.678829382
+DRI,Restaurants,#8DD2C6,65.5,2.220893117
+YUM,Restaurants,#8DD2C6,60.83333333,0.965331415
+SBUX,Restaurants,#8DD2C6,53,1.241048551
+Automotive Retail,Consumer Discretionary,#8DD2C6,138.8333333,3.16227766
+AAP,Automotive Retail,#8DD2C6,138.8333333,3.190276447
+Internet & Direct Marketing Retail,Consumer Discretionary,#8DD2C6,2459,64.91532947
+PCLN,Internet & Direct Marketing Retail,#8DD2C6,1507.333333,62.71625074
+EXPE,Internet & Direct Marketing Retail,#8DD2C6,125,1.178120711
+AMZN,Internet & Direct Marketing Retail,#8DD2C6,767.6666667,15.90658187
+TRIP,Internet & Direct Marketing Retail,#8DD2C6,59,5.227138284
+Cable & Satellite,Consumer Discretionary,#8DD2C6,426.1666667,9.110433579
+CHTR,Cable & Satellite,#8DD2C6,259.1666667,8.96398414
+DISCA,Cable & Satellite,#8DD2C6,25.16666667,0.645140111
+DISCK,Cable & Satellite,#8DD2C6,24.5,0.518314297
+DISH,Cable & Satellite,#8DD2C6,55.5,1.244688989
+CMCSA,Cable & Satellite,#8DD2C6,61.83333333,1.633899036
+Tires & Rubber,Consumer Discretionary,#8DD2C6,27.83333333,0
+GT,Tires & Rubber,#8DD2C6,27.83333333,0.676399561
+Broadcasting & Cable TV,Consumer Discretionary,#8DD2C6,338.5,1
+SNI,Broadcasting & Cable TV,#8DD2C6,65,0.876375981
+TWX,Broadcasting & Cable TV,#8DD2C6,86.5,0.80439471
+CBS,Broadcasting & Cable TV,#8DD2C6,56.66666667,0.848491698
+DIS,Broadcasting & Cable TV,#8DD2C6,93.5,1.015701321
+VIAB,Broadcasting & Cable TV,#8DD2C6,36.83333333,0.773799515
+Automobile Manufacturers,Consumer Discretionary,#8DD2C6,42.16666667,0
+F,Automobile Manufacturers,#8DD2C6,11,0.580933157
+GM,Automobile Manufacturers,#8DD2C6,31.16666667,0.768291801
+Distributors,Consumer Discretionary,#8DD2C6,31.16666667,0
+LKQ,Distributors,#8DD2C6,31.16666667,0.63037517
+Consumer Electronics,Consumer Discretionary,#8DD2C6,47.66666667,0
+GRMN,Consumer Electronics,#8DD2C6,47.66666667,0.973450466
+Specialty Retail,Consumer Discretionary,#8DD2C6,65.66666667,1
+TSCO,Specialty Retail,#8DD2C6,65.66666667,1.344030987
+Department Stores,Consumer Discretionary,#8DD2C6,89.16666667,2.236067977
+JWN,Department Stores,#8DD2C6,51.83333333,1.940193213
+M,Department Stores,#8DD2C6,37.33333333,1.427295273
+Specialty Stores,Consumer Discretionary,#8DD2C6,1540,7.615773106
+SIG,Specialty Stores,#8DD2C6,83.5,3.224668398
+SPLS,Specialty Stores,#8DD2C6,7.333333333,0.626307521
+BBBY,Specialty Stores,#8DD2C6,39.83333333,1.756568521
+KMX,Specialty Stores,#8DD2C6,50,1.429702267
+AN,Specialty Stores,#8DD2C6,40.66666667,0.84829531
+AZO,Specialty Stores,#8DD2C6,736.3333333,5.470095978
+ULTA,Specialty Stores,#8DD2C6,232.5,2.92129234
+ORLY,Specialty Stores,#8DD2C6,261,1.682669834
+GPC,Specialty Stores,#8DD2C6,88.83333333,2.075802338
+Housewares & Specialties,Consumer Discretionary,#8DD2C6,48.16666667,1
+NWL,Housewares & Specialties,#8DD2C6,48.16666667,1.226987632
+Publishing,Consumer Discretionary,#8DD2C6,95.16666667,0
+FOXA,Publishing,#8DD2C6,26.83333333,0.525213622
+TGNA,Publishing,#8DD2C6,18.33333333,0.74818637
+NWS,Publishing,#8DD2C6,12,0.302765035
+FOX,Publishing,#8DD2C6,26.83333333,0.417798826
+NWSA,Publishing,#8DD2C6,11.16666667,0.772600227
+Advertising,Consumer Discretionary,#8DD2C6,101.3333333,0
+IPG,Advertising,#8DD2C6,21.5,0.639478908
+OMC,Advertising,#8DD2C6,79.83333333,0.87629218
+Home Furnishings,Consumer Discretionary,#8DD2C6,237.8333333,8
+LEG,Home Furnishings,#8DD2C6,45.5,1.139261433
+MHK,Home Furnishings,#8DD2C6,192.3333333,7.98571077
+Motorcycle Manufacturers,Consumer Discretionary,#8DD2C6,56.66666667,1.414213562
+HOG,Motorcycle Manufacturers,#8DD2C6,56.66666667,1.498139122
+Auto Parts & Equipment,Consumer Discretionary,#8DD2C6,101.5,1.414213562
+BWA,Auto Parts & Equipment,#8DD2C6,34.5,0.609262127
+DLPH,Auto Parts & Equipment,#8DD2C6,67,1.687459254
+Home Improvement Retail,Consumer Discretionary,#8DD2C6,190.5,3.16227766
+LOW,Home Improvement Retail,#8DD2C6,66.83333333,1.188144523
+HD,Home Improvement Retail,#8DD2C6,123.6666667,3.0112775
+Homebuilding,Consumer Discretionary,#8DD2C6,86.5,0
+LEN,Homebuilding,#8DD2C6,40.83333333,0.706312685
+PHM,Homebuilding,#8DD2C6,18,0.406509705
+DHI,Homebuilding,#8DD2C6,27.66666667,0.867154132
+Leisure Products,Consumer Discretionary,#8DD2C6,112.5,1
+MAT,Leisure Products,#8DD2C6,30.33333333,0.596526631
+HAS,Leisure Products,#8DD2C6,82.16666667,1.15334825
+General Merchandise Stores,Consumer Discretionary,#8DD2C6,256.3333333,3.872983346
+TGT,General Merchandise Stores,#8DD2C6,67.33333333,1.509280697
+DG,General Merchandise Stores,#8DD2C6,69.83333333,2.115976715
+DLTR,General Merchandise Stores,#8DD2C6,75,1.267450094
+KSS,General Merchandise Stores,#8DD2C6,44.16666667,2.965802849
+Casinos & Gaming,Consumer Discretionary,#8DD2C6,86.66666667,1
+WYNN,Casinos & Gaming,#8DD2C6,86.66666667,1.103020032
+Household Appliances,Consumer Discretionary,#8DD2C6,431.6666667,7.549834435
+WHR,Household Appliances,#8DD2C6,156.3333333,4.833131677
+SWK,Household Appliances,#8DD2C6,117.6666667,3.707935186
+SNA,Household Appliances,#8DD2C6,157.6666667,4.597834216
+Telecommunications Services,SP500,#CCEBC5,161.3333333,1
+Alternative Carriers,Telecommunications Services,#CCEBC5,52.16666667,1
+LVLT,Alternative Carriers,#CCEBC5,52.16666667,1.409065801
+Integrated Telecommunications Services,Telecommunications Services,#CCEBC5,109.1666667,0
+CTL,Integrated Telecommunications Services,#CCEBC5,23.33333333,0.579851733
+FTR,Integrated Telecommunications Services,#CCEBC5,3,0.18380243
+T,Integrated Telecommunications Services,#CCEBC5,36.16666667,0.730479632
+VZ,Integrated Telecommunications Services,#CCEBC5,46.66666667,0.734064703
+Health Care,SP500,#BDB9DA,6993.166667,51.98076567
+Pharmaceuticals,Health Care,#BDB9DA,652.1666667,12.24744871
+AGN,Pharmaceuticals,#BDB9DA,200.8333333,9.943255397
+MRK,Pharmaceuticals,#BDB9DA,60.66666667,2.568848421
+PFE,Pharmaceuticals,#BDB9DA,30.66666667,1.393896049
+MYL,Pharmaceuticals,#BDB9DA,36.33333333,1.719395486
+LLY,Pharmaceuticals,#BDB9DA,74.5,2.589873593
+ZTS,Pharmaceuticals,#BDB9DA,49.66666667,0.906473693
+PRGO,Pharmaceuticals,#BDB9DA,82.66666667,3.044898433
+MNK,Pharmaceuticals,#BDB9DA,58,4.440902698
+ABBV,Pharmaceuticals,#BDB9DA,58.83333333,3.099932597
+Life Sciences Tools & Services,Health Care,#BDB9DA,556.5,11.09053651
+ILMN,Life Sciences Tools & Services,#BDB9DA,135.5,1.965499692
+MTD,Life Sciences Tools & Services,#BDB9DA,421,10.97412638
+Health Care Supplies,Health Care,#BDB9DA,285,3.31662479
+XRAY,Health Care Supplies,#BDB9DA,60.5,0.627083354
+PDCO,Health Care Supplies,#BDB9DA,46,0.870851147
+COO,Health Care Supplies,#BDB9DA,178.5,3.338682485
+Health Care Facilities,Health Care,#BDB9DA,255,4.795831523
+HCA,Health Care Facilities,#BDB9DA,75.16666667,3.518482171
+UHS,Health Care Facilities,#BDB9DA,121.6666667,3.374781924
+DVA,Health Care Facilities,#BDB9DA,58.16666667,0.918698318
+Managed Health Care,Health Care,#BDB9DA,741.1666667,15
+CI,Managed Health Care,#BDB9DA,126.8333333,6.646348832
+AET,Managed Health Care,#BDB9DA,111.5,5.577199914
+HUM,Managed Health Care,#BDB9DA,177.1666667,9.738920672
+ANTM,Managed Health Care,#BDB9DA,124.8333333,5.106414363
+UNH,Managed Health Care,#BDB9DA,140.6666667,3.020524493
+CNC,Managed Health Care,#BDB9DA,60.16666667,4.685323984
+Health Care Services,Health Care,#BDB9DA,225.1666667,2.449489743
+EVHC,Health Care Services,#BDB9DA,20.5,1.215949492
+DGX,Health Care Services,#BDB9DA,81.33333333,1.076480357
+LH,Health Care Services,#BDB9DA,123.3333333,2.10401823
+Biotechnology,Health Care,#BDB9DA,1300.166667,41.85689907
+VRTX,Biotechnology,#BDB9DA,84.5,6.697638374
+BIIB,Biotechnology,#BDB9DA,297.1666667,19.27332741
+REGN,Biotechnology,#BDB9DA,375,34.1168893
+GILD,Biotechnology,#BDB9DA,74.33333333,2.577161531
+ALXN,Biotechnology,#BDB9DA,124.6666667,3.821330116
+CELG,Biotechnology,#BDB9DA,110.1666667,7.452074824
+AMGN,Biotechnology,#BDB9DA,140.6666667,6.00587409
+INCY,Biotechnology,#BDB9DA,93.66666667,7.969305537
+Health Care Equipment,Health Care,#BDB9DA,2233.666667,18.05547009
+TMO,Health Care Equipment,#BDB9DA,150.1666667,3.138806709
+BDX,Health Care Equipment,#BDB9DA,175.1666667,2.011369317
+BCR,Health Care Equipment,#BDB9DA,219.3333333,2.365418508
+ISRG,Health Care Equipment,#BDB9DA,665.5,17.05055234
+BAX,Health Care Equipment,#BDB9DA,46.66666667,0.859997326
+VAR,Health Care Equipment,#BDB9DA,89.33333333,1.260608861
+DHR,Health Care Equipment,#BDB9DA,78,1.535718945
+A,Health Care Equipment,#BDB9DA,44.83333333,1.230017394
+MDT,Health Care Equipment,#BDB9DA,82.33333333,1.128593967
+SYK,Health Care Equipment,#BDB9DA,116.8333333,2.378668691
+ABT,Health Care Equipment,#BDB9DA,39.16666667,0.860685
+ZBH,Health Care Equipment,#BDB9DA,101.8333333,1.29785437
+HOLX,Health Care Equipment,#BDB9DA,37.5,0.770649352
+EW,Health Care Equipment,#BDB9DA,90.66666667,1.406309498
+IDXX,Health Care Equipment,#BDB9DA,107.5,1.66393595
+PKI,Health Care Equipment,#BDB9DA,50.5,0.700868292
+BSX,Health Care Equipment,#BDB9DA,21.33333333,0.575803827
+JNJ,Health Care Equipment,#BDB9DA,117,2.040375357
+Health Care Distributors,Health Care,#BDB9DA,693.1666667,9.219544457
+ABC,Health Care Distributors,#BDB9DA,72.66666667,3.542815579
+CAH,Health Care Distributors,#BDB9DA,66.83333333,2.499779915
+HSIC,Health Care Distributors,#BDB9DA,155.1666667,1.548131387
+MCK,Health Care Distributors,#BDB9DA,135.1666667,6.66985641
+ESRX,Health Care Distributors,#BDB9DA,70.33333333,3.195428768
+BMY,Health Care Distributors,#BDB9DA,53,2.456277933
+WAT,Health Care Distributors,#BDB9DA,140,2.318017285
+Health Care Technology,Health Care,#BDB9DA,51.16666667,1
+CERN,Health Care Technology,#BDB9DA,51.16666667,1.383139703
+Real Estate,SP500,#BDB9DA,2707.333333,12.88409873
+Specialized REITs,Real Estate,#FCB461,977,11.09053651
+AMT,Specialized REITs,#FCB461,111.5,3.589030046
+EXR,Specialized REITs,#FCB461,73,2.018174357
+EQIX,Specialized REITs,#FCB461,343.5,8.360543182
+PSA,Specialized REITs,#FCB461,211,5.299810153
+DLR,Specialized REITs,#FCB461,90.66666667,2.411379228
+CCI,Specialized REITs,#FCB461,86.5,2.379758249
+IRM,Specialized REITs,#FCB461,32.16666667,0.869591134
+WY,Specialized REITs,#FCB461,28.66666667,0.605383522
+Retail REITs,Real Estate,#FCB461,562.5,2.645751311
+O,Retail REITs,#FCB461,56.33333333,1.690289565
+REG,Retail REITs,#FCB461,69,0.805055808
+GGP,Retail REITs,#FCB461,24.5,0.530439824
+MAC,Retail REITs,#FCB461,67.83333333,0.963935785
+FRT,Retail REITs,#FCB461,138.8333333,2.07025534
+SPG,Retail REITs,#FCB461,180.8333333,1.398441163
+KIM,Retail REITs,#FCB461,25.16666667,0.4426875
+Residential REITs,Real Estate,#FCB461,619.1666667,3.605551275
+EQR,Residential REITs,#FCB461,60.83333333,0.943153669
+AIV,Residential REITs,#FCB461,43.33333333,0.948417731
+UDR,Residential REITs,#FCB461,34,0.648947961
+MAA,Residential REITs,#FCB461,93.16666667,1.225256832
+ESS,Residential REITs,#FCB461,218.1666667,2.964596084
+AVB,Residential REITs,#FCB461,169.6666667,2.094963495
+Real Estate Services,Real Estate,#FCB461,26.66666667,0
+CBG,Real Estate Services,#FCB461,26.66666667,0.608778922
+Office REITs,Real Estate,#FCB461,304.1666667,3.741657387
+BXP,Office REITs,#FCB461,117.5,2.503460313
+VNO,Office REITs,#FCB461,89,1.817216919
+SLG,Office REITs,#FCB461,97.66666667,2.433534508
+Hotel & Resort REITs,Real Estate,#FCB461,15.16666667,0
+HST,Hotel & Resort REITs,#FCB461,15.16666667,0.678212752
+Health Care REITs,Real Estate,#FCB461,153.6666667,2.828427125
+HCP,Health Care REITs,#FCB461,28.5,1.004448145
+VTR,Health Care REITs,#FCB461,61.33333333,2.213682077
+HCN,Health Care REITs,#FCB461,63.83333333,1.938403447
+Industrial REITs,Real Estate,#FCB461,49,1
+PLD,Industrial REITs,#FCB461,49,1.405074234
+Materials,SP500,#FBCDE4,2104.5,22.02271555
+Industrial Gases,Materials,#FBCDE4,252.5,3
+PX,Industrial Gases,#FBCDE4,116.6666667,2.115176751
+APD,Industrial Gases,#FBCDE4,135.8333333,2.431338422
+Specialty Chemicals,Materials,#FBCDE4,744.8333333,9.899494937
+LYB,Specialty Chemicals,#FBCDE4,79.33333333,1.858290762
+SHW,Specialty Chemicals,#FBCDE4,250.6666667,8.317253353
+IFF,Specialty Chemicals,#FBCDE4,126,4.177307998
+ECL,Specialty Chemicals,#FBCDE4,112.6666667,1.98431325
+PPG,Specialty Chemicals,#FBCDE4,93.66666667,1.775905975
+ALB,Specialty Chemicals,#FBCDE4,82.5,1.927352256
+Paper Packaging,Materials,#FBCDE4,205.8333333,1.414213562
+IP,Paper Packaging,#FBCDE4,44,1.075671322
+AVY,Paper Packaging,#FBCDE4,70.5,0.603407971
+WRK,Paper Packaging,#FBCDE4,46,1.25275705
+SEE,Paper Packaging,#FBCDE4,45.33333333,0.993019255
+Gold,Materials,#FBCDE4,36.16666667,1
+NEM,Gold,#FBCDE4,36.16666667,1.173565287
+Copper,Materials,#FBCDE4,11.66666667,1
+FCX,Copper,#FBCDE4,11.66666667,1.161835234
+Metal & Glass Containers,Materials,#FBCDE4,77.33333333,1.414213562
+BLL,Metal & Glass Containers,#FBCDE4,77.33333333,1.414562127
+Construction Materials,Materials,#FBCDE4,328.6666667,18.65475811
+VMC,Construction Materials,#FBCDE4,122.3333333,8.100415107
+MLM,Construction Materials,#FBCDE4,206.3333333,16.83654282
+Diversified Chemicals,Materials,#FBCDE4,194.5,1.732050808
+DOW,Diversified Chemicals,#FBCDE4,53.16666667,0.543850063
+EMN,Diversified Chemicals,#FBCDE4,72.33333333,1.636701618
+DD,Diversified Chemicals,#FBCDE4,69,1.014124256
+Fertilizers & Agricultural Chemicals,Materials,#FBCDE4,200.5,2.449489743
+MON,Fertilizers & Agricultural Chemicals,#FBCDE4,98.16666667,0.802223395
+FMC,Fertilizers & Agricultural Chemicals,#FBCDE4,52.66666667,1.221567486
+CF,Fertilizers & Agricultural Chemicals,#FBCDE4,24.16666667,1.756057304
+MOS,Fertilizers & Agricultural Chemicals,#FBCDE4,25.5,1.443537277
+Steel,Materials,#FBCDE4,52.5,3.872983346
+NUE,Steel,#FBCDE4,52.5,3.943151794
+Consumer Staples,SP500,#B3DE69,2745.5,36.66060556
+Soft Drinks,Consumer Staples,#B3DE69,353.1666667,35.07135583
+KO,Soft Drinks,#B3DE69,41.5,0.821533172
+MNST,Soft Drinks,#B3DE69,120,34.99531747
+PEP,Soft Drinks,#B3DE69,105.8333333,1.775668833
+DPS,Soft Drinks,#B3DE69,85.83333333,1.768624106
+Household Products,Consumer Staples,#B3DE69,340.6666667,2.236067977
+CHD,Household Products,#B3DE69,44,1.030938448
+CL,Household Products,#B3DE69,69.5,1.451803728
+KMB,Household Products,#B3DE69,113.3333333,1.392952267
+CLX,Household Products,#B3DE69,113.8333333,1.116375966
+Drug Retail,Consumer Staples,#B3DE69,159,3.464101615
+WBA,Drug Retail,#B3DE69,80.33333333,0.735980063
+CVS,Drug Retail,#B3DE69,78.66666667,3.576761356
+Hypermarkets & Super Centers,Consumer Staples,#B3DE69,214.1666667,1.732050808
+WMT,Hypermarkets & Super Centers,#B3DE69,69.66666667,0.94078162
+COST,Hypermarkets & Super Centers,#B3DE69,144.5,1.762755095
+Distillers & Vintners,Consumer Staples,#B3DE69,159.1666667,5.291502622
+STZ,Distillers & Vintners,#B3DE69,159.1666667,5.299874943
+Agricultural Products,Consumer Staples,#B3DE69,46.33333333,0
+ADM,Agricultural Products,#B3DE69,46.33333333,0.941305161
+Brewers,Consumer Staples,#B3DE69,102.8333333,2
+TAP,Brewers,#B3DE69,102.8333333,2.006152478
+Packaged Foods & Meats,Consumer Staples,#B3DE69,861.5,6.557438524
+GIS,Packaged Foods & Meats,#B3DE69,61.33333333,1.187134778
+TSN,Packaged Foods & Meats,#B3DE69,68.33333333,1.569682251
+CAG,Packaged Foods & Meats,#B3DE69,45,5.036891076
+MJN,Packaged Foods & Meats,#B3DE69,72.5,1.307100958
+K,Packaged Foods & Meats,#B3DE69,73.66666667,1.585915874
+CPB,Packaged Foods & Meats,#B3DE69,53.16666667,1.302175385
+KHC,Packaged Foods & Meats,#B3DE69,84.83333333,2.160689664
+SJM,Packaged Foods & Meats,#B3DE69,130,1.691293136
+MKC,Packaged Foods & Meats,#B3DE69,93.5,1.437590173
+MDLZ,Packaged Foods & Meats,#B3DE69,43.33333333,1.349682629
+HRL,Packaged Foods & Meats,#B3DE69,36,0.986331462
+HSY,Packaged Foods & Meats,#B3DE69,99.83333333,1.453139082
+Tobacco,Consumer Staples,#B3DE69,212.8333333,2.828427125
+MO,Tobacco,#B3DE69,64,1.383701009
+PM,Tobacco,#B3DE69,94.83333333,2.476131292
+RAI,Tobacco,#B3DE69,54,1.003054121
+Food Distributors,Consumer Staples,#B3DE69,51.33333333,2.645751311
+SYY,Food Distributors,#B3DE69,51.33333333,2.730236041
+Food Retail,Consumer Staples,#B3DE69,59.5,0
+WFM,Food Retail,#B3DE69,28.5,0.858389983
+KR,Food Retail,#B3DE69,31,0.934112666
+Personal Products,Consumer Staples,#B3DE69,185,2
+PG,Personal Products,#B3DE69,85.16666667,1.566032931
+EL,Personal Products,#B3DE69,79.33333333,0.912066628
+COTY,Personal Products,#B3DE69,20.5,1.567152137
+Information Technology,SP500,#FFFFB3,5931,20.63976744
+Technology Hardware; Storage & Peripherals,Information Technology,#FFFFB3,245.5,1.732050808
+HPQ,Technology Hardware; Storage & Peripherals,#FFFFB3,14.66666667,0.582370634
+AAPL,Technology Hardware; Storage & Peripherals,#FFFFB3,109.1666667,1.323381272
+XRX,Technology Hardware; Storage & Peripherals,#FFFFB3,9,0.392088425
+HPE,Technology Hardware; Storage & Peripherals,#FFFFB3,22.5,0.642793603
+WDC,Technology Hardware; Storage & Peripherals,#FFFFB3,56.16666667,1.154880345
+STX,Technology Hardware; Storage & Peripherals,#FFFFB3,34,1.139845688
+Electronic Manufacturing Services,Information Technology,#FFFFB3,64,1.732050808
+TEL,Electronic Manufacturing Services,#FFFFB3,64,1.741979818
+Data Processing & Outsourced Services,Information Technology,#FFFFB3,314.6666667,3.872983346
+GPN,Data Processing & Outsourced Services,#FFFFB3,70.83333333,1.172138072
+ADS,Data Processing & Outsourced Services,#FFFFB3,203.1666667,3.767599621
+PYPL,Data Processing & Outsourced Services,#FFFFB3,40.66666667,0.568281939
+Application Software,Information Technology,#FFFFB3,325.5,2.449489743
+SNPS,Application Software,#FFFFB3,58.16666667,0.735606046
+ADBE,Application Software,#FFFFB3,106.6666667,1.608792093
+SYMC,Application Software,#FFFFB3,24.16666667,0.784020944
+TDC,Application Software,#FFFFB3,27,0.803761913
+ADSK,Application Software,#FFFFB3,70.83333333,2.137967909
+ORCL,Application Software,#FFFFB3,38.66666667,0.617126343
+Communications Equipment,Information Technology,#FFFFB3,365.8333333,4.69041576
+MSI,Communications Equipment,#FFFFB3,76.33333333,2.814727617
+FFIV,Communications Equipment,#FFFFB3,137.3333333,1.755617654
+HRS,Communications Equipment,#FFFFB3,97,3.577953915
+CSCO,Communications Equipment,#FFFFB3,30.5,0.51018003
+JNPR,Communications Equipment,#FFFFB3,24.66666667,0.594344028
+Systems Software,Information Technology,#FFFFB3,165.1666667,1
+CA,Systems Software,#FFFFB3,30.66666667,0.832579242
+RHT,Systems Software,#FFFFB3,75.33333333,1.250126653
+MSFT,Systems Software,#FFFFB3,59.16666667,0.885474776
+Electronic Components,Information Technology,#FFFFB3,88,1
+GLW,Electronic Components,#FFFFB3,22.5,0.529952822
+APH,Electronic Components,#FFFFB3,65.5,1.146101208
+Home Entertainment Software,Information Technology,#FFFFB3,120.1666667,2
+EA,Home Entertainment Software,#FFFFB3,79.5,1.600155618
+ATVI,Home Entertainment Software,#FFFFB3,40.66666667,1.461026425
+Internet Software & Services,Information Technology,#FFFFB3,2896,18.33030278
+MA,Internet Software & Services,#FFFFB3,104.3333333,1.290585549
+VRSN,Internet Software & Services,#FFFFB3,80.66666667,0.919675136
+ADP,Internet Software & Services,#FFFFB3,90,0.976379081
+FISV,Internet Software & Services,#FFFFB3,98.83333333,1.110525612
+CTXS,Internet Software & Services,#FFFFB3,84.5,1.371366823
+NFLX,Internet Software & Services,#FFFFB3,121.5,3.046446409
+FB,Internet Software & Services,#FFFFB3,121.5,1.524565722
+GOOG,Internet Software & Services,#FFFFB3,773.8333333,12.17164914
+CRM,Internet Software & Services,#FFFFB3,74.66666667,1.23665756
+AKAM,Internet Software & Services,#FFFFB3,65.83333333,0.55773766
+INTU,Internet Software & Services,#FFFFB3,107.1666667,1.684245215
+WU,Internet Software & Services,#FFFFB3,19.33333333,0.727835983
+GOOGL,Internet Software & Services,#FFFFB3,793.5,13.01679133
+EBAY,Internet Software & Services,#FFFFB3,27.83333333,0.312063318
+NTAP,Internet Software & Services,#FFFFB3,32,1.033190421
+PAYX,Internet Software & Services,#FFFFB3,54.16666667,0.900073807
+TSS,Internet Software & Services,#FFFFB3,48.83333333,0.928030604
+YHOO,Internet Software & Services,#FFFFB3,40.5,0.496504099
+FIS,Internet Software & Services,#FFFFB3,75.66666667,0.961463794
+V,Internet Software & Services,#FFFFB3,81.33333333,1.232505556
+Semiconductor Equipment,Information Technology,#FFFFB3,199.6666667,1.414213562
+KLAC,Semiconductor Equipment,#FFFFB3,74.5,0.72520066
+AMAT,Semiconductor Equipment,#FFFFB3,28.5,0.624446328
+LRCX,Semiconductor Equipment,#FFFFB3,96.66666667,1.659307006
+Electronic Equipment & Instruments,Information Technology,#FFFFB3,32.33333333,0
+FLIR,Electronic Equipment & Instruments,#FFFFB3,32.33333333,0.909554446
+Semiconductors,Information Technology,#FFFFB3,762.3333333,4.69041576
+FSLR,Semiconductors,#FFFFB3,32.5,1.085563708
+QRVO,Semiconductors,#FFFFB3,51.5,2.201079957
+TXN,Semiconductors,#FFFFB3,68.33333333,1.016205731
+NVDA,Semiconductors,#FFFFB3,68.66666667,1.69178613
+MCHP,Semiconductors,#FFFFB3,61.66666667,1.798277401
+XLNX,Semiconductors,#FFFFB3,50.33333333,0.97520579
+ADI,Semiconductors,#FFFFB3,63.66666667,0.817472241
+AVGO,Semiconductors,#FFFFB3,172.8333333,3.139638339
+SWKS,Semiconductors,#FFFFB3,75.83333333,1.258130463
+QCOM,Semiconductors,#FFFFB3,66.83333333,1.008605965
+INTC,Semiconductors,#FFFFB3,33.66666667,0.830649224
+MU,Semiconductors,#FFFFB3,16.5,0.629735378
+IT Consulting & Other Services,Information Technology,#FFFFB3,351.8333333,3.464101615
+CSRA,IT Consulting & Other Services,#FFFFB3,26.33333333,1.57065307
+ACN,IT Consulting & Other Services,#FFFFB3,118,1.576145577
+CTSH,IT Consulting & Other Services,#FFFFB3,52.83333333,1.345136675
+IBM,IT Consulting & Other Services,#FFFFB3,154.6666667,2.661463619
+Energy,SP500,#D9D9D9,1949.166667,6.557438524
+Oil & Gas Storage & Transportation,Energy,#D9D9D9,96.83333333,1.414213562
+WMB,Oil & Gas Storage & Transportation,#D9D9D9,29,1.070715663
+OKE,Oil & Gas Storage & Transportation,#D9D9D9,47.83333333,1.296389869
+KMI,Oil & Gas Storage & Transportation,#D9D9D9,20,0.846768642
+Integrated Oil & Gas,Energy,#D9D9D9,265,2
+MUR,Integrated Oil & Gas,#D9D9D9,26.66666667,1.044889129
+XOM,Integrated Oil & Gas,#D9D9D9,84.83333333,1.322923843
+HES,Integrated Oil & Gas,#D9D9D9,47.5,1.170847351
+CVX,Integrated Oil & Gas,#D9D9D9,106,1.300051482
+Oil & Gas Refining & Marketing,Energy,#D9D9D9,261.5,3.464101615
+PSX,Oil & Gas Refining & Marketing,#D9D9D9,80,1.749950605
+VLO,Oil & Gas Refining & Marketing,#D9D9D9,59,2.175966748
+TSO,Oil & Gas Refining & Marketing,#D9D9D9,80.66666667,2.012386392
+MPC,Oil & Gas Refining & Marketing,#D9D9D9,41.83333333,1.179100194
+Oil & Gas Equipment & Services,Energy,#D9D9D9,247.5,1.732050808
+FTI,Oil & Gas Equipment & Services,#D9D9D9,32.5,0.952584009
+BHI,Oil & Gas Equipment & Services,#D9D9D9,57.83333333,1.443575982
+NOV,Oil & Gas Equipment & Services,#D9D9D9,31.83333333,0.893893111
+SLB,Oil & Gas Equipment & Services,#D9D9D9,78.5,1.138221721
+HAL,Oil & Gas Equipment & Services,#D9D9D9,46.83333333,0.966146433
+Oil & Gas Exploration & Production,Energy,#D9D9D9,1006.666667,4.69041576
+XEC,Oil & Gas Exploration & Production,#D9D9D9,122.1666667,2.207207526
+NFX,Oil & Gas Exploration & Production,#D9D9D9,37.83333333,0.778580708
+RRC,Oil & Gas Exploration & Production,#D9D9D9,32,0.8854472
+COP,Oil & Gas Exploration & Production,#D9D9D9,43.5,1.157166197
+DVN,Oil & Gas Exploration & Production,#D9D9D9,41.33333333,1.362167231
+NBL,Oil & Gas Exploration & Production,#D9D9D9,37,0.398831828
+COG,Oil & Gas Exploration & Production,#D9D9D9,20.33333333,0.835334035
+APC,Oil & Gas Exploration & Production,#D9D9D9,59.83333333,1.139217194
+EQT,Oil & Gas Exploration & Production,#D9D9D9,64,1.263527118
+MRO,Oil & Gas Exploration & Production,#D9D9D9,14,0.616116872
+CHK,Oil & Gas Exploration & Production,#D9D9D9,5,0.520512568
+APA,Oil & Gas Exploration & Production,#D9D9D9,56.66666667,1.067723639
+CXO,Oil & Gas Exploration & Production,#D9D9D9,130.5,2.417729061
+PXD,Oil & Gas Exploration & Production,#D9D9D9,174.6666667,2.842685487
+EOG,Oil & Gas Exploration & Production,#D9D9D9,92.33333333,0.805815259
+OXY,Oil & Gas Exploration & Production,#D9D9D9,66.16666667,0.842640312
+SWN,Oil & Gas Exploration & Production,#D9D9D9,9.333333333,0.483350574
+Oil & Gas Drilling,Energy,#D9D9D9,71.66666667,0
+RIG,Oil & Gas Drilling,#D9D9D9,9.333333333,0.710285545
+HP,Oil & Gas Drilling,#D9D9D9,62.33333333,0.754416599
+Industrials,SP500,#FA8071,5975.5,29.47880595
+Diversified Support Services,Industrials,#FA8071,104.6666667,2
+CTAS,Diversified Support Services,#FA8071,104.6666667,2.053068788
+Building Products,Industrials,#FA8071,231.1666667,3.605551275
+FAST,Building Products,#FA8071,40.66666667,2.324432799
+ALLE,Building Products,#FA8071,65.16666667,2.011169025
+FBHS,Building Products,#FA8071,53.5,1.238103806
+JCI,Building Products,#FA8071,42,1.851444999
+MAS,Building Products,#FA8071,29.83333333,0.87050444
+Diversified Commercial Services,Industrials,#FA8071,47,3
+FLR,Diversified Commercial Services,#FA8071,47,3.006443576
+Industrial Conglomerates,Industrials,#FA8071,481.8333333,4.795831523
+GE,Industrial Conglomerates,#FA8071,28.83333333,0.831948405
+MMM,Industrial Conglomerates,#FA8071,169.3333333,2.678255075
+ROP,Industrial Conglomerates,#FA8071,173.3333333,3.640660571
+HON,Industrial Conglomerates,#FA8071,110.3333333,1.89139683
+Industrial Machinery,Industrials,#FA8071,710.1666667,10.48808848
+IR,Industrial Machinery,#FA8071,70.66666667,3.084655928
+PNR,Industrial Machinery,#FA8071,55.83333333,2.074251042
+DOV,Industrial Machinery,#FA8071,67.33333333,2.29822199
+ITW,Industrial Machinery,#FA8071,117.5,3.516443458
+CMI,Industrial Machinery,#FA8071,129.6666667,5.932384831
+PH,Industrial Machinery,#FA8071,126.1666667,6.183801714
+XYL,Industrial Machinery,#FA8071,48.83333333,1.978400113
+FTV,Industrial Machinery,#FA8071,51.83333333,1.301753297
+FLS,Industrial Machinery,#FA8071,42.33333333,1.739689858
+Construction & Engineering,Industrials,#FA8071,80.16666667,2.828427125
+JEC,Construction & Engineering,#FA8071,51.16666667,2.721828219
+PWR,Construction & Engineering,#FA8071,29,1.283556921
+Electrical Components & Equipment,Industrials,#FA8071,515.1666667,13.34166406
+ETN,Electrical Components & Equipment,#FA8071,63,3.152069907
+AME,Electrical Components & Equipment,#FA8071,45,1.464797405
+AYI,Electrical Components & Equipment,#FA8071,232.8333333,11.79771214
+ROK,Electrical Components & Equipment,#FA8071,123.1666667,4.82328821
+EMR,Electrical Components & Equipment,#FA8071,51.16666667,2.288593616
+Environmental & Facilities Services,Industrials,#FA8071,125,0
+RSG,Environmental & Facilities Services,#FA8071,51.66666667,0.791528348
+SRCL,Environmental & Facilities Services,#FA8071,73.33333333,0.834457452
+Railroads,Industrials,#FA8071,304.6666667,6.32455532
+NSC,Railroads,#FA8071,95,3.356945285
+CSX,Railroads,#FA8071,32,1.40629539
+KSU,Railroads,#FA8071,86.66666667,4.277907904
+UNP,Railroads,#FA8071,91,3.18945038
+Airlines,Industrials,#FA8071,254.8333333,3.16227766
+ALK,Airlines,#FA8071,71.66666667,1.875817578
+DAL,Airlines,#FA8071,43.5,1.500600241
+AAL,Airlines,#FA8071,40.66666667,1.288853656
+LUV,Airlines,#FA8071,41,1.420720952
+UAL,Airlines,#FA8071,58,1.588185865
+Research & Consulting Services,Industrials,#FA8071,365.6666667,3.605551275
+EFX,Research & Consulting Services,#FA8071,122.6666667,3.500945985
+NLSN,Research & Consulting Services,#FA8071,43.83333333,0.836873194
+VRSK,Research & Consulting Services,#FA8071,82.33333333,0.688529372
+DNB,Research & Consulting Services,#FA8071,116.8333333,1.19692858
+Trading Companies & Distributors,Industrials,#FA8071,78.66666667,7.280109889
+URI,Trading Companies & Distributors,#FA8071,78.66666667,7.287221316
+Trucking,Industrials,#FA8071,156,4.69041576
+JBHT,Trucking,#FA8071,83.33333333,2.906265426
+R,Trucking,#FA8071,72.66666667,3.849178061
+Air Freight & Logistics,Industrials,#FA8071,408.3333333,4.582575695
+CHRW,Air Freight & Logistics,#FA8071,69.83333333,1.546172482
+EXPD,Air Freight & Logistics,#FA8071,50,0.996887413
+FDX,Air Freight & Logistics,#FA8071,178.6666667,3.634240618
+UPS,Air Freight & Logistics,#FA8071,109.8333333,2.550847526
+Environmental Services,Industrials,#FA8071,64.33333333,1
+WM,Environmental Services,#FA8071,64.33333333,1.314335913
+Industrial Materials,Industrials,#FA8071,212.6666667,8.246211251
+GWW,Industrial Materials,#FA8071,212.6666667,8.24939747
+Aerospace & Defense,Industrials,#FA8071,1566.166667,16.37070554
+COL,Aerospace & Defense,#FA8071,83,1.258967909
+TDG,Aerospace & Defense,#FA8071,269.3333333,2.301621824
+LMT,Aerospace & Defense,#FA8071,243.6666667,8.160491502
+LLL,Aerospace & Defense,#FA8071,140,6.559198872
+TXT,Aerospace & Defense,#FA8071,40.66666667,1.905679162
+RTN,Aerospace & Defense,#FA8071,138.3333333,5.967092327
+ARNC,Aerospace & Defense,#FA8071,17.16666667,0.610501155
+GD,Aerospace & Defense,#FA8071,155.3333333,6.328229205
+BA,Aerospace & Defense,#FA8071,142.6666667,2.835404891
+NOC,Aerospace & Defense,#FA8071,232.6666667,7.851158146
+UTX,Aerospace & Defense,#FA8071,103.3333333,2.492043277
+Human Resource & Employment Services,Industrials,#FA8071,38.66666667,1.414213562
+RHI,Human Resource & Employment Services,#FA8071,38.66666667,1.640699205
+Construction & Farm Machinery & Heavy Trucks,Industrials,#FA8071,230.3333333,5.099019514
+DE,Construction & Farm Machinery & Heavy Trucks,#FA8071,88.83333333,1.004085318
+PCAR,Construction & Farm Machinery & Heavy Trucks,#FA8071,55.83333333,2.214160872
+CAT,Construction & Farm Machinery & Heavy Trucks,#FA8071,85.66666667,4.590624986

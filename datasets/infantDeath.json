@@ -1,0 +1,1824 @@
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 6.879032654907798,
+"size": 18.577040923522677,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "ATG"
+},
+{ 
+"se": 18.688859374521506,
+"size": 73.73088233166443,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "BHS"
+},
+{ 
+"se": 5.612882072046832,
+"size": 49.26935410219914,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "BRB"
+},
+{ 
+"se": 355.8725339391351,
+"size": 891.2308323949279,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "CUB"
+},
+{ 
+"se": 5.852852813821605,
+"size": 20.11552829620755,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "DMA"
+},
+{ 
+"se": 1111.640823814593,
+"size": 7019.230871679159,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "DOM"
+},
+{ 
+"se": 5.7256084927109905,
+"size": 29.423194373660913,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "GRD"
+},
+{ 
+"se": 3660.7784783206516,
+"size": 18816.692374814324,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "HTI"
+},
+{ 
+"se": 258.1197271353448,
+"size": 995.8847579155331,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "JAM"
+},
+{ 
+"se": 5.378155930629617,
+"size": 13.807765765944204,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "KNA"
+},
+{ 
+"se": 13.60407158922511,
+"size": 41.92313158585099,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "LCA"
+},
+{ 
+"se": 7.022895682853586,
+"size": 39.57706689117264,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "VCT"
+},
+{ 
+"se": 77.15303781835392,
+"size": 446.84624177286946,
+"colorRed": 254,
+"colorGreen": 227,
+"colorBlue": 145,
+"title": "TTO"
+}
+],
+"se": 3851.8860948329902,
+"size": 28456.30904284704,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Caribbean"
+},
+{ 
+"children": [ 
+{ 
+"se": 25.48444340990615,
+"size": 142.34621522084265,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "BLZ"
+},
+{ 
+"se": 194.33159456272764,
+"size": 788.8077851468339,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "CRI"
+},
+{ 
+"se": 1778.1070867304782,
+"size": 3568.807783889324,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "SLV"
+},
+{ 
+"se": 3489.890173719957,
+"size": 15042.884658502133,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "GTM"
+},
+{ 
+"se": 1684.9135908008245,
+"size": 5634.115460795846,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "HND"
+},
+{ 
+"se": 17500.560104246146,
+"size": 50312.269357060155,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "MEX"
+},
+{ 
+"se": 1591.6310022704217,
+"size": 4043.7308908671307,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "NIC"
+},
+{ 
+"se": 164.16256328007452,
+"size": 1423.0385477336429,
+"colorRed": 254,
+"colorGreen": 196,
+"colorBlue": 79,
+"title": "PAN"
+}
+],
+"se": 18084.473695061675,
+"size": 80956.0006992159,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Central America"
+},
+{ 
+"children": [ 
+{ 
+"se": 3001.8052078571736,
+"size": 11890.269348973077,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "ARG"
+},
+{ 
+"se": 4017.4175679178447,
+"size": 13054.307763921846,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "BOL"
+},
+{ 
+"se": 46734.94032963484,
+"size": 96490.9231619244,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "BRA"
+},
+{ 
+"se": 715.2527801789752,
+"size": 2377.6539887050053,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "CHL"
+},
+{ 
+"se": 4575.805510487667,
+"size": 16480.73091930514,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "COL"
+},
+{ 
+"se": 2051.7717981855963,
+"size": 8557.884688354006,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "ECU"
+},
+{ 
+"se": 173.27481103153644,
+"size": 648.6154437548302,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "GUY"
+},
+{ 
+"se": 851.1892410260502,
+"size": 3607.6923731025204,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "PRY"
+},
+{ 
+"se": 8710.943929992596,
+"size": 17078.000093170234,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "PER"
+},
+{ 
+"se": 78.96284623842526,
+"size": 292.1539623347735,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "SUR"
+},
+{ 
+"se": 254.56987112420742,
+"size": 713.8462734975866,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "URY"
+},
+{ 
+"se": 1740.6302345518136,
+"size": 10406.307840324955,
+"colorRed": 254,
+"colorGreen": 153,
+"colorBlue": 41,
+"title": "VEN"
+}
+],
+"se": 48111.33340654895,
+"size": 181598.38585736838,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "South America"
+},
+{ 
+"children": [ 
+{ 
+"se": 237.16124381591942,
+"size": 1917.0770180675154,
+"colorRed": 236,
+"colorGreen": 112,
+"colorBlue": 20,
+"title": "CAN"
+},
+{ 
+"se": 3602.0164328670203,
+"size": 27958.423149978193,
+"colorRed": 236,
+"colorGreen": 112,
+"colorBlue": 20,
+"title": "USA"
+}
+],
+"se": 3609.8154853416495,
+"size": 29875.500168045706,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern America"
+}
+],
+"se": 51668.330583726725,
+"size": 320886.195767477,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Americas"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 3382.3315869247385,
+"size": 9057.846222581926,
+"colorRed": 247,
+"colorGreen": 104,
+"colorBlue": 161,
+"title": "KAZ"
+},
+{ 
+"se": 1331.8694244872183,
+"size": 4497.230829944956,
+"colorRed": 247,
+"colorGreen": 104,
+"colorBlue": 161,
+"title": "KGZ"
+},
+{ 
+"se": 3568.4206882604794,
+"size": 12999.884755157022,
+"colorRed": 247,
+"colorGreen": 104,
+"colorBlue": 161,
+"title": "TJK"
+},
+{ 
+"se": 920.3289893862985,
+"size": 7173.615515391015,
+"colorRed": 247,
+"colorGreen": 104,
+"colorBlue": 161,
+"title": "TKM"
+},
+{ 
+"se": 8774.916621532897,
+"size": 27229.807782178534,
+"colorRed": 247,
+"colorGreen": 104,
+"colorBlue": 161,
+"title": "UZB"
+}
+],
+"se": 10187.926015620513,
+"size": 60958.38510525345,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Central Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 257090.8688649775,
+"size": 447532.6154787847,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "CHN"
+},
+{ 
+"se": 1135.8836544562596,
+"size": 3563.0770096923934,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "JPN"
+},
+{ 
+"se": 6271.77652582342,
+"size": 13472.038561519023,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "PRK"
+},
+{ 
+"se": 2222.6823947156827,
+"size": 3506.846220455829,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "KOR"
+},
+{ 
+"se": 1114.7078652219545,
+"size": 2276.653941028398,
+"colorRed": 122,
+"colorGreen": 1,
+"colorBlue": 119,
+"title": "MNG"
+}
+],
+"se": 257181.88730326237,
+"size": 470351.23121148034,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Eastern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 8.630560059172865,
+"size": 65.88475584279777,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "BRN"
+},
+{ 
+"se": 8041.061692726519,
+"size": 21272.730889161816,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "KHM"
+},
+{ 
+"se": 46087.30367978153,
+"size": 176764.88475787226,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "IDN"
+},
+{ 
+"se": 3731.728422266441,
+"size": 12885.923127629807,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "LAO"
+},
+{ 
+"se": 1301.0889878255637,
+"size": 4389.115476075135,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "MYS"
+},
+{ 
+"se": 15032.327274855681,
+"size": 63715.80780927409,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "MMR"
+},
+{ 
+"se": 7751.965911055408,
+"size": 64739.230893438566,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "PHL"
+},
+{ 
+"se": 60.9062816552829,
+"size": 152.96165362176987,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "SGP"
+},
+{ 
+"se": 7138.610743726583,
+"size": 16391.000070769605,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "THA"
+},
+{ 
+"se": 821.8629082315963,
+"size": 2959.5770539763853,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "TLS"
+},
+{ 
+"se": 12668.462615237306,
+"size": 36924.34626841423,
+"colorRed": 174,
+"colorGreen": 1,
+"colorBlue": 126,
+"title": "VNM"
+}
+],
+"se": 51985.66776584405,
+"size": 400261.4627560764,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "South-eastern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 16389.684508828224,
+"size": 35067.8462565039,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "IRN"
+},
+{ 
+"se": 8351.293365093115,
+"size": 78299.53851914719,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "AFG"
+},
+{ 
+"se": 81231.00578591415,
+"size": 200445.61549929113,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "BGD"
+},
+{ 
+"se": 387.77421345010794,
+"size": 851.0001127233356,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "BTN"
+},
+{ 
+"se": 454403.53141925484,
+"size": 1605365.538571041,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "IND"
+},
+{ 
+"se": 163.92018408614734,
+"size": 216.15395328186136,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "MDV"
+},
+{ 
+"se": 16350.978085873405,
+"size": 38650.23089703988,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "NPL"
+},
+{ 
+"se": 30000.056634066448,
+"size": 386514.65393347945,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "PAK"
+},
+{ 
+"se": 1213.7526208012996,
+"size": 4556.153942487844,
+"colorRed": 221,
+"colorGreen": 52,
+"colorBlue": 151,
+"title": "LKA"
+}
+],
+"se": 463236.8938706777,
+"size": 2349966.7316849953,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Southern Asia"
+},
+{ 
+"children": [ 
+{ 
+"se": 668.1999678884468,
+"size": 1165.0385121834945,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "ARM"
+},
+{ 
+"se": 3578.7937178324523,
+"size": 8365.269283816657,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "AZE"
+},
+{ 
+"se": 35.84171313543413,
+"size": 67.42320517807487,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "CYP"
+},
+{ 
+"se": 911.9834295815294,
+"size": 1635.65398144913,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "GEO"
+},
+{ 
+"se": 17944.593580328037,
+"size": 37560.26936882415,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "TUR"
+},
+{ 
+"se": 41.11055110989179,
+"size": 172.19236071530509,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "BHR"
+},
+{ 
+"se": 1454.7020637686257,
+"size": 30364.69237271881,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "IRQ"
+},
+{ 
+"se": 123.31105913808493,
+"size": 668.8077823891188,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "ISR"
+},
+{ 
+"se": 111.21534309926051,
+"size": 3702.384734924199,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "JOR"
+},
+{ 
+"se": 36.842378728754845,
+"size": 509.84620316323037,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "KWT"
+},
+{ 
+"se": 406.6004178350339,
+"size": 938.8462968586587,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "LBN"
+},
+{ 
+"se": 397.9342382383123,
+"size": 927.2693326448782,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "OMN"
+},
+{ 
+"se": 19.922965239982975,
+"size": 145.19236939363623,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "QAT"
+},
+{ 
+"se": 3346.8893005400837,
+"size": 10592.154004245709,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "SAU"
+},
+{ 
+"se": 2074.5388858102388,
+"size": 9196.923176184857,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "SYR"
+},
+{ 
+"se": 52.28320893261259,
+"size": 584.3462335644135,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "ARE"
+},
+{ 
+"se": 305.3642150277109,
+"size": 2894.9232234604556,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "GAZA"
+},
+{ 
+"se": 7417.0935327694415,
+"size": 44110.9616580769,
+"colorRed": 250,
+"colorGreen": 159,
+"colorBlue": 181,
+"title": "YEM"
+}
+],
+"se": 20228.227362140053,
+"size": 153602.1940997917,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Western Asia"
+}
+],
+"se": 532866.2380669245,
+"size": 3435140.0048575974,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Asia"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 423.34200024120383,
+"size": 819.0000971727687,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "BLR"
+},
+{ 
+"se": 311.5962621400477,
+"size": 882.1923592768295,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "BGR"
+},
+{ 
+"se": 276.3207425549834,
+"size": 488.19240255799036,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "CZE"
+},
+{ 
+"se": 405.1189445050025,
+"size": 808.0385943854372,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "HUN"
+},
+{ 
+"se": 570.1139484362673,
+"size": 1137.8078174227207,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "MDA"
+},
+{ 
+"se": 2023.1183982184098,
+"size": 3476.3077570136215,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "POL"
+},
+{ 
+"se": 1646.5785068322934,
+"size": 3628.423188910468,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "ROU"
+},
+{ 
+"se": 6384.558227915916,
+"size": 20287.00007769138,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "RUS"
+},
+{ 
+"se": 192.87381287817203,
+"size": 466.8077652204484,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "SVK"
+},
+{ 
+"se": 1969.8751691252814,
+"size": 6318.230857368172,
+"colorRed": 107,
+"colorGreen": 174,
+"colorBlue": 214,
+"title": "UKR"
+}
+],
+"se": 7233.6875930305205,
+"size": 38312.00091701983,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Eastern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 71.29499907483756,
+"size": 284.153945603959,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "DNK"
+},
+{ 
+"se": 69.78466912892254,
+"size": 110.15400348614861,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "EST"
+},
+{ 
+"se": 63.62905859767679,
+"size": 198.26936805768418,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "FIN"
+},
+{ 
+"se": 4.463040996820591,
+"size": 12.653959560232622,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "ISL"
+},
+{ 
+"se": 43.27133434794308,
+"size": 290.2308358355122,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "IRL"
+},
+{ 
+"se": 123.62186926754957,
+"size": 234.6923981518412,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "LVA"
+},
+{ 
+"se": 193.4426089589052,
+"size": 306.7309036840421,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "LTU"
+},
+{ 
+"se": 66.4936341456802,
+"size": 212.50012027874004,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "NOR"
+},
+{ 
+"se": 103.60241618641514,
+"size": 349.80780153511057,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "SWE"
+},
+{ 
+"se": 702.1594162865881,
+"size": 3911.923155121696,
+"colorRed": 66,
+"colorGreen": 146,
+"colorBlue": 198,
+"title": "GBR"
+}
+],
+"se": 759.4596635577478,
+"size": 5911.116491314966,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 683.8958077894715,
+"size": 1113.5385996381049,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "ALB"
+},
+{ 
+"se": 0.7806741621106954,
+"size": 2.9231434714349107,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "AND"
+},
+{ 
+"se": 223.23005537117885,
+"size": 379.26928826840344,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "BIH"
+},
+{ 
+"se": 114.76937139537401,
+"size": 298.38472083879617,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "HRV"
+},
+{ 
+"se": 209.9972952457313,
+"size": 549.5385987170798,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "GRC"
+},
+{ 
+"se": 872.1250459361244,
+"size": 2478.5770463794047,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "ITA"
+},
+{ 
+"se": 257.72017666695876,
+"size": 421.6539705607298,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "MKD"
+},
+{ 
+"se": 37.90725312363648,
+"size": 85.0385881052286,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "MNE"
+},
+{ 
+"se": 276.62029264834763,
+"size": 546.5001046442102,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "PRT"
+},
+{ 
+"se": 0.5384622440488884,
+"size": 1.3078141789878397,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "SMR"
+},
+{ 
+"se": 789.0296107799596,
+"size": 1269.0385619963215,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "SRB"
+},
+{ 
+"se": 37.689243895438075,
+"size": 81.46160758404741,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "SVN"
+},
+{ 
+"se": 427.2710961421252,
+"size": 1763.8462204354003,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "ESP"
+},
+{ 
+"se": 9.189002764155418,
+"size": 30.846205638543562,
+"colorRed": 8,
+"colorGreen": 81,
+"colorBlue": 156,
+"title": "MLT"
+}
+],
+"se": 1512.093803328891,
+"size": 9021.924470456694,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Southern Europe"
+},
+{ 
+"children": [ 
+{ 
+"se": 124.62968828831053,
+"size": 373.5000684099178,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "AUT"
+},
+{ 
+"se": 159.3300096648424,
+"size": 570.8462943673293,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "BEL"
+},
+{ 
+"se": 735.5462368318956,
+"size": 3273.9616070354964,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "FRA"
+},
+{ 
+"se": 914.3678863341825,
+"size": 3180.8847236849997,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "DEU"
+},
+{ 
+"se": 6.844104734187639,
+"size": 19.346275585902884,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "LUX"
+},
+{ 
+"se": 0.4757451233148461,
+"size": 1.3462356550885068,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "MCO"
+},
+{ 
+"se": 209.51557829519214,
+"size": 893.38475630626,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "NLD"
+},
+{ 
+"se": 62.93314719561805,
+"size": 359.7308561662432,
+"colorRed": 33,
+"colorGreen": 113,
+"colorBlue": 181,
+"title": "CHE"
+}
+],
+"se": 1210.751806080335,
+"size": 8673.000817211238,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Western Europe"
+}
+],
+"se": 7526.975672880002,
+"size": 61918.04269600273,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Europe"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 206.05301687626314,
+"size": 1295.8077474204702,
+"colorRed": 116,
+"colorGreen": 196,
+"colorBlue": 118,
+"title": "AUS"
+},
+{ 
+"se": 57.23717973637268,
+"size": 351.46160924076366,
+"colorRed": 116,
+"colorGreen": 196,
+"colorBlue": 118,
+"title": "NZL"
+}
+],
+"se": 213.8549520305373,
+"size": 1647.2693566612338,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Australia and New Zealand"
+},
+{ 
+"children": [ 
+{ 
+"se": 37.54487066827663,
+"size": 390.19239040159067,
+"colorRed": 65,
+"colorGreen": 171,
+"colorBlue": 93,
+"title": "FJI"
+},
+{ 
+"se": 507.7772989924984,
+"size": 10315.423200313684,
+"colorRed": 65,
+"colorGreen": 171,
+"colorBlue": 93,
+"title": "PNG"
+},
+{ 
+"se": 14.269179540092301,
+"size": 380.0770080232426,
+"colorRed": 65,
+"colorGreen": 171,
+"colorBlue": 93,
+"title": "SLB"
+},
+{ 
+"se": 6.765722104942259,
+"size": 150.61551605359895,
+"colorRed": 65,
+"colorGreen": 171,
+"colorBlue": 93,
+"title": "VUT"
+}
+],
+"se": 509.4082715916217,
+"size": 11236.308114792117,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Melanesia"
+},
+{ 
+"children": [ 
+{ 
+"se": 12.01354776806634,
+"size": 144.46161511564793,
+"colorRed": 35,
+"colorGreen": 139,
+"colorBlue": 69,
+"title": "KIR"
+},
+{ 
+"se": 12.54624186908078,
+"size": 62.23085560809249,
+"colorRed": 35,
+"colorGreen": 139,
+"colorBlue": 69,
+"title": "MHL"
+},
+{ 
+"se": 28.694088075147814,
+"size": 110.26933789046305,
+"colorRed": 35,
+"colorGreen": 139,
+"colorBlue": 69,
+"title": "FSM"
+},
+{ 
+"se": 1.1067353411838075,
+"size": 5.923182697601833,
+"colorRed": 35,
+"colorGreen": 139,
+"colorBlue": 69,
+"title": "NRU"
+},
+{ 
+"se": 2.099596138849734,
+"size": 6.7693063968878455,
+"colorRed": 35,
+"colorGreen": 139,
+"colorBlue": 69,
+"title": "PLW"
+}
+],
+"se": 33.6261412079817,
+"size": 329.65429770869315,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Micronesia"
+},
+{ 
+"children": [ 
+{ 
+"se": 17.76707117561773,
+"size": 97.15390393166554,
+"colorRed": 0,
+"colorGreen": 109,
+"colorBlue": 44,
+"title": "WSM"
+},
+{ 
+"se": 3.8185461505715224,
+"size": 42.73089545678214,
+"colorRed": 0,
+"colorGreen": 109,
+"colorBlue": 44,
+"title": "TON"
+},
+{ 
+"se": 2.044261363856763,
+"size": 7.884732519885425,
+"colorRed": 0,
+"colorGreen": 109,
+"colorBlue": 44,
+"title": "TUV"
+}
+],
+"se": 18.28740324341508,
+"size": 147.7695319083331,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Polynesia"
+}
+],
+"se": 553.801294837664,
+"size": 13361.001301070377,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Oceania"
+},
+{ 
+"children": [ 
+{ 
+"children": [ 
+{ 
+"se": 290.87323216489415,
+"size": 1608.615527655694,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "DJI"
+},
+{ 
+"se": 2098.328075926786,
+"size": 24489.961662280348,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "BDI"
+},
+{ 
+"se": 52.201026518342246,
+"size": 1493.7693579498007,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "COM"
+},
+{ 
+"se": 1516.6370438926479,
+"size": 7100.769344699719,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "ERI"
+},
+{ 
+"se": 50954.323061985655,
+"size": 213468.07697229306,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "ETH"
+},
+{ 
+"se": 7436.4348884811325,
+"size": 67278.73090345175,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "KEN"
+},
+{ 
+"se": 7758.274933190343,
+"size": 39225.50010568489,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "MDG"
+},
+{ 
+"se": 10293.390788576862,
+"size": 42517.38475478894,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "MWI"
+},
+{ 
+"se": 93.4459559725367,
+"size": 291.0770548893216,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "MUS"
+},
+{ 
+"se": 15850.390330844319,
+"size": 83297.76933247683,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "MOZ"
+},
+{ 
+"se": 9000.735258577857,
+"size": 24864.461663285834,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "RWA"
+},
+{ 
+"se": 1.3008867502426011,
+"size": 20.00009705451542,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "SYC"
+},
+{ 
+"se": 4870.274713026969,
+"size": 46659.11547417605,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "SOM"
+},
+{ 
+"se": 3800.575964352902,
+"size": 30016.61545805048,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "SSD"
+},
+{ 
+"se": 14501.286348944104,
+"size": 103674.88475210691,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "TZA"
+},
+{ 
+"se": 16487.67678389267,
+"size": 93044.7308219515,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "UGA"
+},
+{ 
+"se": 6243.015368681524,
+"size": 36323.03853742634,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "ZMB"
+},
+{ 
+"se": 3044.4011493047497,
+"size": 24758.192451146915,
+"colorRed": 251,
+"colorGreen": 106,
+"colorBlue": 74,
+"title": "ZWE"
+}
+],
+"se": 61035.84220860395,
+"size": 840132.6942713691,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Eastern Africa"
+},
+{ 
+"children": [ 
+{ 
+"se": 10442.926531836805,
+"size": 85721.84629651874,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "AGO"
+},
+{ 
+"se": 5484.30874917625,
+"size": 54757.38470262925,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "CMR"
+},
+{ 
+"se": 1019.1075695468769,
+"size": 15908.53852692885,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "CAF"
+},
+{ 
+"se": 4249.3500527773485,
+"size": 42293.92317583739,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "TCD"
+},
+{ 
+"se": 14834.733901397725,
+"size": 225243.23090501016,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "COD"
+},
+{ 
+"se": 1029.904818518848,
+"size": 7616.077022542638,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "COG"
+},
+{ 
+"se": 159.92403018613595,
+"size": 2581.0000816835436,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "GNQ"
+},
+{ 
+"se": 51.76208091067586,
+"size": 2142.615486990639,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "GAB"
+},
+{ 
+"se": 51.52675045827443,
+"size": 261.38466909919,
+"colorRed": 239,
+"colorGreen": 59,
+"colorBlue": 44,
+"title": "STP"
+}
+],
+"se": 19477.906894477397,
+"size": 436526.0008672404,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Middle Africa"
+},
+{ 
+"children": [ 
+{ 
+"se": 215.00287265144323,
+"size": 2162.00012354644,
+"colorRed": 203,
+"colorGreen": 24,
+"colorBlue": 29,
+"title": "BWA"
+},
+{ 
+"se": 176.91109868472913,
+"size": 4471.000076758273,
+"colorRed": 203,
+"colorGreen": 24,
+"colorBlue": 29,
+"title": "LSO"
+},
+{ 
+"se": 145.31301360514644,
+"size": 2649.8847429447055,
+"colorRed": 203,
+"colorGreen": 24,
+"colorBlue": 29,
+"title": "NAM"
+},
+{ 
+"se": 4468.5639855859645,
+"size": 47986.961588835155,
+"colorRed": 203,
+"colorGreen": 24,
+"colorBlue": 29,
+"title": "ZAF"
+},
+{ 
+"se": 302.39776342330407,
+"size": 2343.115497980531,
+"colorRed": 203,
+"colorGreen": 24,
+"colorBlue": 29,
+"title": "SWZ"
+}
+],
+"se": 4489.782638904534,
+"size": 59612.9620300651,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Southern Africa"
+},
+{ 
+"children": [ 
+{ 
+"se": 369.442537151237,
+"size": 24926.230893485976,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "BEN"
+},
+{ 
+"se": 3414.9473643801443,
+"size": 44399.115493785284,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "BFA"
+},
+{ 
+"se": 145.5326871610169,
+"size": 368.65393937037607,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "CPV"
+},
+{ 
+"se": 3207.6683785981995,
+"size": 61325.15395229102,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "CIV"
+},
+{ 
+"se": 31.955430441967472,
+"size": 3427.3462704832787,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "GMB"
+},
+{ 
+"se": 2266.493675293851,
+"size": 41250.88474677564,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "GHA"
+},
+{ 
+"se": 5119.256892233857,
+"size": 33529.038577136795,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "GIN"
+},
+{ 
+"se": 670.56453753131,
+"size": 4938.884688285761,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "GNB"
+},
+{ 
+"se": 2738.7769114847424,
+"size": 12099.653912174412,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "LBR"
+},
+{ 
+"se": 2745.9730735955327,
+"size": 55859.26929514351,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "MLI"
+},
+{ 
+"se": 746.5488951656313,
+"size": 7257.5770273588405,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "MRT"
+},
+{ 
+"se": 3595.2179413840126,
+"size": 54433.57701812038,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "NER"
+},
+{ 
+"se": 30853.62074756058,
+"size": 541013.0385196507,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "NGA"
+},
+{ 
+"se": 2650.158120735062,
+"size": 23136.384770995202,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "SEN"
+},
+{ 
+"se": 2799.7451185147147,
+"size": 27998.07700080786,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "SLE"
+},
+{ 
+"se": 425.92614278601025,
+"size": 14061.000081318984,
+"colorRed": 252,
+"colorGreen": 146,
+"colorBlue": 114,
+"title": "TGO"
+}
+],
+"se": 32394.6996225442,
+"size": 950023.886187184,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Western Africa"
+},
+{ 
+"children": [ 
+{ 
+"se": 3917.6951039579035,
+"size": 22595.769355976066,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "DZA"
+},
+{ 
+"se": 18196.229289880986,
+"size": 67162.42321682526,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "EGY"
+},
+{ 
+"se": 827.91076189506,
+"size": 2586.0770568595044,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "LBY"
+},
+{ 
+"se": 7798.81284306103,
+"size": 25948.42315116988,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "MAR"
+},
+{ 
+"se": 1950.2407806684998,
+"size": 4391.153918311754,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "TUN"
+},
+{ 
+"se": 4971.9651516666345,
+"size": 66634.80785138614,
+"colorRed": 165,
+"colorGreen": 15,
+"colorBlue": 21,
+"title": "SDN"
+}
+],
+"se": 20892.149000527053,
+"size": 189318.65455052862,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Northern Africa"
+}
+],
+"se": 74905.4036284648,
+"size": 2475614.197906387,
+"colorRed": 255,
+"colorGreen": 255,
+"colorBlue": 255,
+"title": "Africa"
+}
+],
+"se": 540632.8010843432,
+"size": 6306919.442528535,
+"colorRed": 255,
+"colorGreen": 0,
+"colorBlue": 0,
+"title": "root"
+}
